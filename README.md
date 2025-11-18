@@ -34,7 +34,6 @@ Built using **Pure Java Swing + MySQL** – No frameworks, No web technology
 | Role  | Username | Password |
 |-------|----------|----------|
 | Admin | `admin`  | `12345`  |
-|-------|----------|----------|
 | User  |  `user`  | `user123`|
 
 You can also **add more users directly into the database** if you modify the login logic later.
