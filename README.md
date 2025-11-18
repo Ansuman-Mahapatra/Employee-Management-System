@@ -50,5 +50,5 @@ Proudly made with core Java
 2024
 
 ---
-⭐ Star this repo if you found it helpful!  ⭐
+⭐ Star this repo if you found it helpful!  ⭐  
 Feel free to fork, improve, and use it for your college projects or portfolio.
